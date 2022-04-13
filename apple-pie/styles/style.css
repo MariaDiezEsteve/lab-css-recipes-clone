@@ -1,0 +1,73 @@
+
+.fondo {
+    background-image: url('/apple-pie/images/apple-pie.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+}
+
+#apple {
+   color: white;
+   text-align: center;
+   line-height: 600px;
+   text-align: center;
+   vertical-align: middle;
+   font-size: 150px;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
+.cooking {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: auto;
+    border: auto;
+} 
+
+#imagen{
+    justify-content: center;
+    align-items: center;
+    display:block;
+    margin: auto;
+       }
+
+.recipe {
+    border: 2px white;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding: 50px;
+   
+}
+
+#lista {
+    text-align: left;
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    padding: auto;
+    
+}
+
+#line {
+    height: 2px;
+    background-color: gray;
+    margin: 10px;
+}
+
+#recipe1 {
+    border: 2px white;
+    margin-right: 65px;
+    margin-bottom: 20px;
+    margin-left: 65px;
+}
+#recipe2 {
+    border: 2px white;
+    margin-top: 60px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 65px;
+}
